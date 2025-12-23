@@ -2,7 +2,7 @@
 
 ## Automated Student Performance Report Generation Using Python
 
-__Company Name__ : CODTECH IT SOLUTIONS
+__Company Name__ : Codtech IT Solutions Private Limited
 
 __Name__ : Kiruthika R
 
